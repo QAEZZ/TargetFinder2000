@@ -40,9 +40,9 @@ def main():
     typeOption = int(input('[$]>>: '))
 
     if typeOption == 1:
-      os.system('python home.py')
+      os.system('python3 home.py')
     elif typeOption == 2:
-      os.system('python business.py')
+      os.system('python3 business.py')
     elif typeOption == 3:
       print('TERMINATED!..')
       exit()
