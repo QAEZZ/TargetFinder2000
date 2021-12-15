@@ -1,5 +1,6 @@
 # TargetFinder2000
-Simple IP Geolocator using Python and an API.
+Simple IP Geolocator using Python3 and an API.
+If you have something lower than Python3, edit main.py, find the `os.system` tags that have `python3` and change to `python`...
 
 ---
 ### Instructions:
