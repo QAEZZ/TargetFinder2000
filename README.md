@@ -14,3 +14,5 @@ Note (Pt II): Had to create a `WINDOWS` version because it uses '*cls*' and not 
 
 *Fun* ~~cringey ass~~ *ASCII art included...*
 
+*Please DM me on Instagram, @russian.devv: If you find any bugs along with the version you installed and your OS*
+
