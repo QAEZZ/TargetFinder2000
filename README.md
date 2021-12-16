@@ -3,7 +3,7 @@ Simple IP Geolocator using Python3 and an API.
 If you have something lower than Python3, edit `main.py`, find the `os.system` tags that have `python3` and change to `python`...
 
 If you want a `.deb` file, here is the link:
-`---> https://mega.nz/file/PfgGDZiK#TZ9qjGB_XVyNlr60Xss70-ESiNHGXV3uRRSmKiNqSuI
+https://mega.nz/file/PfgGDZiK#TZ9qjGB_XVyNlr60Xss70-ESiNHGXV3uRRSmKiNqSuI
 
 ---
 ### Instructions:
