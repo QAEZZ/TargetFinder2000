@@ -15,7 +15,7 @@ If you don't wanna `git clone`andor dont wanna install python. Here: \
 - Choose an option lmao, one option is for home IPs and the other is for business/server IPs
 
 ---
-Note: ASCII art is broken in `CMD/PowerShell`, if you want to enjoy the wonderful ~~ass~~ ASCII arts then use a different console or sum. You'll figure it out..
+Note: ASCII art is broken in `CMD/PowerShell`, if you want to enjoy the wonderful ~~ass~~ ASCII arts then use a different console or sum. You'll figure it out.. *(Use Windows Terminal app from the Microsoft Store... They have simplye Linux CLIs as well.)*
 
 Note (Pt II): Had to create a `WINDOWS` version because it uses '*cls*' and not '*clear*' in `CMD`, if you main `PowerShell` then feel free to download the `UNIX` like version...
 
