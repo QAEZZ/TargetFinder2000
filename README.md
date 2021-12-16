@@ -6,7 +6,7 @@ If you want a `.deb` file, here is the link: \
 <a href="https://mega.nz/file/PfgGDZiK#TZ9qjGB_XVyNlr60Xss70-ESiNHGXV3uRRSmKiNqSuI">Shortened the link, too long. (It's mega.nz)</a>
 
 If you don't wanna `git clone`andor dont wanna install python. Here: \
-<a href="https://replit.com/@RussianDev/Py-GeoIp-TF2000#home.py">Repl.it/russiandev/py-geoip-tf2000</a>
+<a href="https://replit.com/@RussianDev/Py-GeoIp-TF2000#home.py">Repl.it/</a>
 
 ---
 ### Instructions:
