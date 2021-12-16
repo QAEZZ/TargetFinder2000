@@ -16,7 +16,7 @@ If you don't wanna `git clone`andor dont wanna install python. Here: \
 
 ---
 Note: ASCII art is broken in `CMD/PowerShell`, if you want to enjoy the wonderful ~~ass~~ ASCII arts then use a different console or sum. You'll figure it out..
-*(Use Windows Terminal app from the Microsoft Store... They have simplye Linux CLIs as well.)*
+\ *(Use Windows Terminal app from the Microsoft Store... They have simplye Linux CLIs as well.)*
 
 Note (Pt II): Had to create a `WINDOWS` version because it uses '*cls*' and not '*clear*' in `CMD`, if you main `PowerShell` then feel free to download the `UNIX` like version...
 
